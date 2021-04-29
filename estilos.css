@@ -92,7 +92,7 @@
 }
 
 #texto_parte2 #boton2 p{
-	padding: 5px;
+	padding: 4px;
 	margin-left: 15px;
 	width: 95px;
 	font: small-caps 100% serif;
@@ -204,6 +204,13 @@
 	margin-left: 50px;
 	color: white;
 }
+
+
+
+
+
+
+
 
 /* RESPONSIVE */
 
