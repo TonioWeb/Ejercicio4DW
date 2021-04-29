@@ -113,6 +113,16 @@
 	overflow: hidden;
 }
 
+@media(max-width: 1600px){
+	#parte3 {
+	width: 100%;
+	height: 100vh;
+	background: #2C2C2C;
+	top: 0;
+	overflow: hidden;
+}
+}
+
 #texto_parte3 {
 	margin-top: 50px;
 	width: 30%;
