@@ -35,9 +35,9 @@
 }
 
 #contenedor_cabecera img{
-	width: 550px;
+	width: 400px;
 	margin-left: 20%;
-	top: -460px;
+	top: -360px;
 	position: static;
 	position: relative;
 }
@@ -52,9 +52,21 @@
 
 #parte2 img {
 	float: left;
-	width: 250px;
+	margin-right: -50px;
+	width: 330px;
+	border: 0px solid black;
 	margin-left: 200px;
-	margin-top: 30px;
+	margin-top: 13px;
+}
+
+@media(max-width: 1000px){
+#contenedor_cabecera img{
+	width: 350px;
+	margin-left: 20%;
+	top: -346px;
+	position: static;
+	position: relative;
+}
 }
 
 @media(max-width: 1000px){
